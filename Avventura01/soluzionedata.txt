@@ -1,0 +1,10 @@
+*SOLUZIONE PER COMPLETARE QUANTICA PROJECT:
+Dopo essere arrivato a Quantica
+01 - Esamina il corridoio
+02 - parla con Alice
+03 - Torna all'ingresso e utilizza il generatore
+04 - vai alla bototla
+05 - Torna a parlare con Alice
+06 - Non salvare carlos e prendi la chiave (salvandolo otterrai il massimo dei punti)
+07 - vai alla botola 
+
